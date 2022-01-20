@@ -1,0 +1,13 @@
+.bg-dark {
+    background-color: green !important;
+}
+
+#map {
+    height: 350px;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+  }
+  
